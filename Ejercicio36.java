@@ -1,7 +1,4 @@
 import java.util.Scanner;
-//En un estacionamiento cobran $15.00 por hora o fracción. Diseñe un algoritmo que
-//determine cuánto debe pagar un cliente por el estacionamiento de su vehículo,
-//conociendo el tiempo de estacionamiento en horas y minutos.
 
 public class Ejercicio36 {
     public static void main(String[] args) {
