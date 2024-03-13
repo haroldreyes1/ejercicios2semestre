@@ -1,6 +1,5 @@
 import java.util.Scanner;
-//Que permita leer el valor correspondiente a una distancia en kilómetros y las
-//visualice expresadas en metros.
+
 
 public class Ejercicio30 {
     public static void main(String[] args) {
