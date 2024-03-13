@@ -1,7 +1,5 @@
 import java.util.Scanner;
-// Construir un programa que permita calcular el área de un triángulo. El usuario
-//ingresará la base y la altura en milímetros y el sistema mostrará los resultados en
-//milímetros, centímetros y metros cuadrados respectivamente.
+
 
 public class Ejercicio31 {
     public static void main(String[] args) {
