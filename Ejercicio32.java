@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+//Construir un programa que permita calcular el área de un rectángulo, los datos se
+//ingresan en metros y se espera ver los resultados en metros, centímetros y
+//milímetros cuadrados.
 public class Ejercicio32 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

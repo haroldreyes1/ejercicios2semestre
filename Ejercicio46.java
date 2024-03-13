@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//Que permita leer el valor correspondiente a una distancia en millas y las visualice
+//expresadas en metros. Sabiendo que 1 milla marina equivale a 1852 metros.
 public class Ejercicio46 {
     public class Main {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+//Crear una función que calcule cual es el número menor de dos números enteros
+
 public class Ejercicio43 {
     public static void main(String[] args) {
         int num1 = 10;

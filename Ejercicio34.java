@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+//Dado el monto de una compra calcular el descuento considerado -descuento es
+//10% si el monto es mayor a 1000 pesos -descuento es 20% si el monto es mayor a
+//500 pesos y menor o igual a 1000 pesos -no hay descuento si el monto es mayor o
+//igual a 500 pesos .
 public class Ejercicio34 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

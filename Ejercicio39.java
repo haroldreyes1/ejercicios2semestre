@@ -1,4 +1,7 @@
 import java.util.Scanner;
+//Una persona pasa el 34 por ciento de su vida durmiendo. Dado el año de
+//nacimiento, el año actual y el nombre de una persona, imprimir cuántos días ha
+//dormido.
 
 public class Ejercicio39 {
     public static void main(String[] args) {

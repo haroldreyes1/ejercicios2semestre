@@ -1,4 +1,8 @@
 import java.util.Scanner;
+//Construir una calculadora minera, la cual permita saber a cuántos pesos equivalen
+//los kilos de oro ingresados. El usuario deberá ingresar tanto los kilos a convertir
+//como el precio en pesos por onza de oro. Recordemos que una onza equivale a
+//28.3495 gramos y que 1000 gramos son un kilo.
 
 public class Ejercicio40 {
     public static void main(String[] args) {
