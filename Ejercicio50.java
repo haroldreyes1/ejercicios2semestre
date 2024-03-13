@@ -1,6 +1,5 @@
 import java.util.Scanner;
-//Facilite el ingreso de tres números enteros y/o reales, muestre su respectiva suma
-//y multiplicación
+
 
 public class Ejercicio50 {
     public static void main(String[] args) {
