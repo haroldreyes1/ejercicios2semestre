@@ -5,11 +5,11 @@ public class Ejercicio54 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Introduce la medida en centímetros: ");
-        double centimeters = scanner.nextDouble();
+        double centimetros = scanner.nextDouble();
 
-        double inches = centimeters / 2.54;
+        double pulgadas = centimetros / 2.54;
 
-        System.out.println(centimeters + " centímetros equivalen a " + inches + " pulgadas.");
+        System.out.println(centimetros + " centímetros equivalen a " + pulgadas + " pulgadas.");
     }
 }
 
